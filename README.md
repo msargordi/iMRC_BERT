@@ -16,9 +16,7 @@ Replace `<config>` with the name of your configuration file.
 Below is an overview of the system architecture of our agent.
 
 ### Overview of Agent
-   ```markdown
-   ![Agent Overview](utils/image.png)
-   ```
+![Agent Overview](utils/image.png)
 
 The system consists of:
 - **Frozen LLM**: A pre-trained BERT/RoBERTa model that is utilized without further training during operations.
