@@ -1,6 +1,7 @@
 # iMRC_BERT
 
-This repository contains the implementation of a BERT-based model for machine reading comprehension. Below you will find instructions on how to set up and run examples.
+This repository contains the implementation of a BERT-based model for machine reading comprehension. Below you will find instructions on how to set up and run examples. This project is based on [Interactive Machine Comprehension with Dynamic Knowledge Graphs](https://arxiv.org/pdf/2109.00077). Our novelty is to use the pre-trained BERT/RoBERTa model to expedite the training while keeping the performance.
+
 
 ## How to Run Examples
 
